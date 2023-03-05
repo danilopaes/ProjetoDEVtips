@@ -15,7 +15,7 @@ Este é um sistema criado para gerenciar cards de dicas de programação que ser
 
 3 - Use a vontade 😃
 
-#### Obs: Caso já exista um banco de dados criado externamente, o ideal seria destruir o banco e recriar para deixar o sistema cuidar disto.
+<!-- #### Obs: Caso já exista um banco de dados criado externamente, o ideal seria destruir o banco e recriar para deixar o sistema cuidar disto. -->
 
 ## 🛠 Tecnologias usadas neste projeto
 
