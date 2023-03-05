@@ -5,15 +5,15 @@ Este é um sistema criado para gerenciar cards de dicas de programação que ser
 
 ## 🚀 Como rodar o sistema
 
-1 - Certifique-se de que você tem o Docker e o Docker Compose instalados na sua máquina
+<!-- 1 - Certifique-se de que você tem o Docker e o Docker Compose instalados na sua máquina -->
 
 <!-- 2 - Rode o comando `docker-compose up -d` para subir o banco de dados **MariaDB** -->
 
-2 - Inicie o sistema através da sua IDE preferida.
+1 - Inicie o sistema através da sua IDE preferida.
 
-3 - Rode o comando para rodar o servidor npm install -g json-server
+2 - Rode o comando para rodar o servidor npm install -g json-server
 
-4 - Use a vontade 😃
+3 - Use a vontade 😃
 
 #### Obs: Caso já exista um banco de dados criado externamente, o ideal seria destruir o banco e recriar para deixar o sistema cuidar disto.
 
