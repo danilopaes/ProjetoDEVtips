@@ -7,10 +7,11 @@ Este é um sistema criado para gerenciar cards de dicas de programação que ser
 
 1 - Certifique-se de que você tem o Docker e o Docker Compose instalados na sua máquina
 
-2 - Rode o comando `docker-compose up -d` para subir o banco de dados **MariaDB**
+<!-- 2 - Rode o comando `docker-compose up -d` para subir o banco de dados **MariaDB** -->
 
-3 - Inicie o sistema através da sua IDE preferida tomando como ponto de entrada o
-arquivo `SmsApplication.java`
+2 - Inicie o sistema através da sua IDE preferida.
+
+3 - Rode o comando para rodar o servidor npm install -g json-server
 
 4 - Use a vontade 😃
 
